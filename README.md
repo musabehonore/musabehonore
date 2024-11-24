@@ -1,4 +1,6 @@
 # Y'ello, I am Izibyose Musabe Honore 👋
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=musabe10)
+
 
 
 - 😊 I am a Software Engineer who specializes in full-stack development. 
